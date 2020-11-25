@@ -13,7 +13,7 @@
     * imperial (Fahrenheit)
 
 #### Examples
-1. `node app.js --address "japan"`
+1. `node app.js --address "india"`
 
 ```
 5 results found for "india"
@@ -22,7 +22,6 @@ Please select one from the following
 2. (region) - Indiana, United States
 3. (place) - Indianapolis, Indiana, United States
 4. (place) - Indiana, Pennsylvania, United States
-
 5. (poi) - Indianapolis International Airport (IND), 7800 Col H Weir Cook Mem Dr, Indianapolis, Indiana 46241, United States
 prompt: row_number:  (1) 2
 Address:  Indiana, United States
